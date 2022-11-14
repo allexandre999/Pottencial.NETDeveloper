@@ -1,0 +1,15 @@
+D:\temp\DIO\BOOTCAMP_POTETENCIAL_.NET_DEVELOPER\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.exe
+D:\temp\DIO\BOOTCAMP_POTETENCIAL_.NET_DEVELOPER\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.deps.json
+D:\temp\DIO\BOOTCAMP_POTETENCIAL_.NET_DEVELOPER\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.runtimeconfig.json
+D:\temp\DIO\BOOTCAMP_POTETENCIAL_.NET_DEVELOPER\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.dll
+D:\temp\DIO\BOOTCAMP_POTETENCIAL_.NET_DEVELOPER\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.pdb
+D:\temp\DIO\BOOTCAMP_POTETENCIAL_.NET_DEVELOPER\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.csproj.AssemblyReference.cache
+D:\temp\DIO\BOOTCAMP_POTETENCIAL_.NET_DEVELOPER\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+D:\temp\DIO\BOOTCAMP_POTETENCIAL_.NET_DEVELOPER\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.AssemblyInfoInputs.cache
+D:\temp\DIO\BOOTCAMP_POTETENCIAL_.NET_DEVELOPER\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.AssemblyInfo.cs
+D:\temp\DIO\BOOTCAMP_POTETENCIAL_.NET_DEVELOPER\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.csproj.CoreCompileInputs.cache
+D:\temp\DIO\BOOTCAMP_POTETENCIAL_.NET_DEVELOPER\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.dll
+D:\temp\DIO\BOOTCAMP_POTETENCIAL_.NET_DEVELOPER\ExemploFundamentos\obj\Debug\net6.0\refint\ExemploFundamentos.dll
+D:\temp\DIO\BOOTCAMP_POTETENCIAL_.NET_DEVELOPER\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.pdb
+D:\temp\DIO\BOOTCAMP_POTETENCIAL_.NET_DEVELOPER\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.genruntimeconfig.cache
+D:\temp\DIO\BOOTCAMP_POTETENCIAL_.NET_DEVELOPER\ExemploFundamentos\obj\Debug\net6.0\ref\ExemploFundamentos.dll

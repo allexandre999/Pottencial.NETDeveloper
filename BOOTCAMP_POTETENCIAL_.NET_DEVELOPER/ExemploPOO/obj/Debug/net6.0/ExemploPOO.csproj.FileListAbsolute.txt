@@ -1,0 +1,15 @@
+D:\temp\DIO\BOOTCAMP_POTETENCIAL_.NET_DEVELOPER\ExemploPOO\bin\Debug\net6.0\ExemploPOO.exe
+D:\temp\DIO\BOOTCAMP_POTETENCIAL_.NET_DEVELOPER\ExemploPOO\bin\Debug\net6.0\ExemploPOO.deps.json
+D:\temp\DIO\BOOTCAMP_POTETENCIAL_.NET_DEVELOPER\ExemploPOO\bin\Debug\net6.0\ExemploPOO.runtimeconfig.json
+D:\temp\DIO\BOOTCAMP_POTETENCIAL_.NET_DEVELOPER\ExemploPOO\bin\Debug\net6.0\ExemploPOO.dll
+D:\temp\DIO\BOOTCAMP_POTETENCIAL_.NET_DEVELOPER\ExemploPOO\bin\Debug\net6.0\ExemploPOO.pdb
+D:\temp\DIO\BOOTCAMP_POTETENCIAL_.NET_DEVELOPER\ExemploPOO\obj\Debug\net6.0\ExemploPOO.csproj.AssemblyReference.cache
+D:\temp\DIO\BOOTCAMP_POTETENCIAL_.NET_DEVELOPER\ExemploPOO\obj\Debug\net6.0\ExemploPOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\temp\DIO\BOOTCAMP_POTETENCIAL_.NET_DEVELOPER\ExemploPOO\obj\Debug\net6.0\ExemploPOO.AssemblyInfoInputs.cache
+D:\temp\DIO\BOOTCAMP_POTETENCIAL_.NET_DEVELOPER\ExemploPOO\obj\Debug\net6.0\ExemploPOO.AssemblyInfo.cs
+D:\temp\DIO\BOOTCAMP_POTETENCIAL_.NET_DEVELOPER\ExemploPOO\obj\Debug\net6.0\ExemploPOO.csproj.CoreCompileInputs.cache
+D:\temp\DIO\BOOTCAMP_POTETENCIAL_.NET_DEVELOPER\ExemploPOO\obj\Debug\net6.0\ExemploPOO.dll
+D:\temp\DIO\BOOTCAMP_POTETENCIAL_.NET_DEVELOPER\ExemploPOO\obj\Debug\net6.0\refint\ExemploPOO.dll
+D:\temp\DIO\BOOTCAMP_POTETENCIAL_.NET_DEVELOPER\ExemploPOO\obj\Debug\net6.0\ExemploPOO.pdb
+D:\temp\DIO\BOOTCAMP_POTETENCIAL_.NET_DEVELOPER\ExemploPOO\obj\Debug\net6.0\ExemploPOO.genruntimeconfig.cache
+D:\temp\DIO\BOOTCAMP_POTETENCIAL_.NET_DEVELOPER\ExemploPOO\obj\Debug\net6.0\ref\ExemploPOO.dll

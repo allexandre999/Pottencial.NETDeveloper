@@ -1,0 +1,17 @@
+D:\temp\DIO\BOOTCAMP_POTETENCIAL_.NET_DEVELOPER\ExemploExplorando\bin\Debug\net6.0\ExemploExplorando.exe
+D:\temp\DIO\BOOTCAMP_POTETENCIAL_.NET_DEVELOPER\ExemploExplorando\bin\Debug\net6.0\ExemploExplorando.deps.json
+D:\temp\DIO\BOOTCAMP_POTETENCIAL_.NET_DEVELOPER\ExemploExplorando\bin\Debug\net6.0\ExemploExplorando.runtimeconfig.json
+D:\temp\DIO\BOOTCAMP_POTETENCIAL_.NET_DEVELOPER\ExemploExplorando\bin\Debug\net6.0\ExemploExplorando.dll
+D:\temp\DIO\BOOTCAMP_POTETENCIAL_.NET_DEVELOPER\ExemploExplorando\bin\Debug\net6.0\ExemploExplorando.pdb
+D:\temp\DIO\BOOTCAMP_POTETENCIAL_.NET_DEVELOPER\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.csproj.AssemblyReference.cache
+D:\temp\DIO\BOOTCAMP_POTETENCIAL_.NET_DEVELOPER\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.GeneratedMSBuildEditorConfig.editorconfig
+D:\temp\DIO\BOOTCAMP_POTETENCIAL_.NET_DEVELOPER\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.AssemblyInfoInputs.cache
+D:\temp\DIO\BOOTCAMP_POTETENCIAL_.NET_DEVELOPER\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.AssemblyInfo.cs
+D:\temp\DIO\BOOTCAMP_POTETENCIAL_.NET_DEVELOPER\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.csproj.CoreCompileInputs.cache
+D:\temp\DIO\BOOTCAMP_POTETENCIAL_.NET_DEVELOPER\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.dll
+D:\temp\DIO\BOOTCAMP_POTETENCIAL_.NET_DEVELOPER\ExemploExplorando\obj\Debug\net6.0\refint\ExemploExplorando.dll
+D:\temp\DIO\BOOTCAMP_POTETENCIAL_.NET_DEVELOPER\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.pdb
+D:\temp\DIO\BOOTCAMP_POTETENCIAL_.NET_DEVELOPER\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.genruntimeconfig.cache
+D:\temp\DIO\BOOTCAMP_POTETENCIAL_.NET_DEVELOPER\ExemploExplorando\obj\Debug\net6.0\ref\ExemploExplorando.dll
+D:\temp\DIO\BOOTCAMP_POTETENCIAL_.NET_DEVELOPER\ExemploExplorando\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\temp\DIO\BOOTCAMP_POTETENCIAL_.NET_DEVELOPER\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.csproj.CopyComplete
