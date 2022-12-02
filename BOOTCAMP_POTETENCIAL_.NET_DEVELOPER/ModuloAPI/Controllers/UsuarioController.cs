@@ -21,5 +21,12 @@ namespace ModuloAPI.Controllers
 
             return Ok(obj);
         }
+
+        [HttpPost("Apresentar")]
+        public IActionResult Apresentar(string nome)
+        {
+            var mensagem = $"Olá {nome}, seja bem vindo!";
+            return Ok(new {mensagem});
+        }
     }
 }
